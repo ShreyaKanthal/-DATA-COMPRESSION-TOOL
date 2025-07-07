@@ -1,0 +1,5 @@
+Original Input: aaabbbbccddddd
+Compressed Output: a3b4c2d5
+
+Given Compressed String: a3b4c2d5
+Decompressed Output: aaabbbbccddddd
